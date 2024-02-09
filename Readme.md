@@ -12,6 +12,11 @@ I'm passionate about building things that matter, combining the strengths of Dev
 -   🔗 My personal website: In the works...
 - ↙️ feel free to connect with me
 
+<br>
+<h3>Profile Views</h3>
+ <p align="left"> <img src="https://profile-counter.glitch.me/arkoaikins/count.svg" alt="arkoaikins" /> </p>
+ 
+ </br>
  
 
 
