@@ -5,8 +5,8 @@ to create robust and efficient solutions.With a strong foundation in <b>Python</
 and a knack for automation, I thrive in environments where creativity meets technical expertise.
 <br>
 <img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
- - 📧 Reach me ➡️: [arkoaikins@gmail.com](mailto:arkoaikins@gmail.com);
- - 🔗 My personal website: In the works...
+- 📧 Reach me ➡️: [arkoaikins@gmail.com](mailto:arkoaikins@gmail.com);
+- 🔗 My personal website: In the works...
 <!-- 🔗 My website: [arkoaikins@gmail.com](mailto:arkoaikins@gmail.com) -->
  
 
