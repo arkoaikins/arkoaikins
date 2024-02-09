@@ -8,12 +8,11 @@ I'm passionate about building things that matter, combining the strengths of Dev
 
 <img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
-- 📧 Reach me ➡️: [arkoaikins@gmail.com](mailto:arkoaikins@gmail.com);
+- 📧 Reach me 👉: [arkoaikins@gmail.com](mailto:arkoaikins@gmail.com);
 -   🔗 My personal website: In the works...
 - ↙️ feel free to connect with me
 
  
-
 
 
 
