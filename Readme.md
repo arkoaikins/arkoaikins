@@ -10,7 +10,8 @@ I'm passionate about building things that matter, combining the strengths of Dev
 
 - 📧 Reach me ➡️: [arkoaikins@gmail.com](mailto:arkoaikins@gmail.com);
 -   🔗 My personal website: In the works...
-<!-- 🔗 My website: [arkoaikins@gmail.com](mailto:arkoaikins@gmail.com) -->
+- ↙️ feel free to connect with me
+
  
 
 
