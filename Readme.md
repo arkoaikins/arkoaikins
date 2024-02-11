@@ -37,6 +37,6 @@ I'm passionate about building things that matter, combining the strengths of Dev
 <br />
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=arkoaikins&show_icons=true&locale=en" alt="arkoaikins" /></p>
-<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=arkoaikins'></p>
+<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=arkoaikin'></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkoaikins&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
